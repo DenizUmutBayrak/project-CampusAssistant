@@ -1,0 +1,7 @@
+teacherId,title,content,date,targetCourse,
+9001,Computer Vision - Project Brief,Final project topic list is published. Choose your topic and submit group members by Sunday 23:59.,2026-01-13 9:00:00,Computer Vision,
+9001,Computer Vision - Quiz 1,Quiz 1 will be held on Thursday during class. Covers Weeks 1-3 (filters, edges, basic CNNs).,2026-01-12 18:00:00,Computer Vision,
+9002,Mobile App Dev - Lab Requirements,Bring your laptop with Flutter installed. Please run 'flutter doctor' before coming to the lab.,2026-01-13 11:30:00,Mobile App Dev,
+9002,Mobile App Dev - Attendance,Attendance will be taken via QR code in the first 10 minutes of the lecture.,2026-01-10 10:00:00,Mobile App Dev,
+9003,Data Mining - Dataset Release,Dataset for Assignment 2 is released on LMS. Submit your notebook + short report by Jan 22.,2026-01-11 14:00:00,Data Mining,
+9003,Data Mining - Exam Info,Midterm exam format: 20 MCQ + 3 short answer. Location: AYZ.223. Date/time will follow the exam schedule.,2026-01-09 16:00:00,Data Mining,

@@ -1,0 +1,7 @@
+teacherId,courseName,day,start,end,room,
+99001,Computer Vision,Mon,12:00:00,12:50:00,AYZ.E1-110,
+99001,Computer Vision,Thu,13:00:00,13:50:00,AYZ.E1-110,
+99002,Mobile App Dev,Wed,8:00:00,8:50:00,AYZ.UE,
+99002,Mobile App Dev,Fri,9:00:00,9:50:00,AYZ.UE,
+99003,Data Mining,Tue,10:00:00,10:50:00,AYZ.223,
+99003,Data Mining,Sat,11:00:00,11:50:00,AYZ.223,
